@@ -1,0 +1,70 @@
+.nav-bg-color {
+    background-color: #0d2d62 !important;
+}
+.text-color{
+    color: whitesmoke !important;
+}
+hr{
+    color: whitesmoke !important;
+}
+.btn-color{
+    background-color: whitesmoke !important;
+}
+.menu-text-color{
+    color: #0d2d62 !important ;
+}
+.dropdown-menu{
+    background-color: #0d2d62 !important;
+}
+.dropdown-item{
+    color: whitesmoke !important;
+}
+.dropdown-menu > li > a:hover {
+    background-color: #345285 !important;
+}
+.navbar-nav > li > a:hover {
+   /** color:  #345285 !important ; */
+   color: #556c91 !important;
+}
+.d-flex > a:hover {
+    /** color:  #345285 !important ; */
+    color: #556c91 !important;
+ }
+ marquee{
+     color: #76312c;
+ }
+ .hr-line{
+    width: 60px;
+    background-color: #0d2d62;
+    opacity: 1; 
+    padding: 1.5px;
+    margin: 20px 0px 40px 0px;
+ }
+ .p-3 > a {
+     margin: 10px 0px 0px 0px;
+ }
+ .card-body > h2 {
+     color: #153c27;
+ }
+ .card-body > img {
+     display: block;
+     border: none;
+ }
+ .btn-bgcolor{
+     background-color: #0d2d62 !important;
+     color: whitesmoke !important;
+ }
+ .btn-bgcolor:hover {
+     background-color: #76312c !important; 
+     border: #76312c !important;
+     opacity: 1;
+}
+.card-border {
+    border: none !important;
+}
+.card-body > .card-text {
+    text-align: justify;
+}
+.news-read-btn{
+    margin-top: 15px;
+}
